@@ -5,6 +5,8 @@
 
 <div>
 <a href="https://github.com/BWartchow">
+ <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BWartchow&layout=compact&langs_count=7&theme=dracula"/>
+ </p>
 </div>
  
