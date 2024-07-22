@@ -1,7 +1,7 @@
-# 🧑🏻‍💻 Aspiring Career Shifter: A Veterinary learning to Code 👨🏻‍⚕️
-- 👋 Hi, my name is Bê. Nice to meet you! I'm an autistic and transgender person, with Veterinary Medicine degree 🐍🐠🦉🐁 at the Federal University of Rio Grande do Sul. After four years of work, I decided to shift my career. 🎯 I am a highly logical person, who learns quickly and loves to solving problems. So my brother, who is a software developer, introduced me to Programming Logic. And I loved it! 🤩
+# 🧑🏻‍💻 Aspiring Career Shifter: From Veterinary Medicine to Coding 👨🏻‍⚕️
+- 👋 Hi, my name is Bê. Nice to meet you! I'm autistic and transgender, with a degree in Veterinary Medicine 🐍🐠🦉🐁 from the Federal University of Rio Grande do Sul. After four years in the field, I've decided to pivot my career. 🎯 I am highly logical, learn quickly, and love solving problems. That's why my brother, a software developer, introduced me to Programming Logic. And I absolutely love it! 🤩
 
-- 📚 I’m currently learning back-end development (Python and Java) and also front-end development (HTML, CSS and JavaScript), but mostly back-end. I’m currently a student at National Service for Commercial Education (SENAC) in Brazil (presentially) and at +praTI Institution, also from Brazil, but remotely. I use Portuguese as native language for the repositories of these courses.
+- 📚 Currently, I'm learning back-end development (Python and Java) as well as front-end development (HTML, CSS, and JavaScript), with a focus on front-end.
 
 <div>
 <a href="https://github.com/BWartchow">
